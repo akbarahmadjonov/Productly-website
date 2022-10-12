@@ -28,6 +28,7 @@ img {
     justify-content: space-between;
     align-items: center;
     padding: 30px 0 30px 0;
+    
 }
 
 .box-wrapper a {
@@ -83,7 +84,7 @@ img {
 /* Ending of Header */
 
 .design-part {
-    margin-top: 40px;
+    margin-top: 120px;
     margin-bottom: 80px;
 } 
 
@@ -100,6 +101,7 @@ img {
     line-height: 54px;
     color: #2F281E;
     margin-bottom: 40px;
+    font-family: 'Poppins', sans-serif;
 }
 
 .design-part .contents .items p {
@@ -456,6 +458,7 @@ form .first-contact input {
     margin-bottom: 20px;
     border: none;
     background: #FFFFFF;
+    border: 1px solid transparent;
     padding: 15px 40px 15px 40px;
     width: 100%;
     border-radius: 5px;
